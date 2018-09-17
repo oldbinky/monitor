@@ -1,5 +1,5 @@
 # Patient Monitor
-# Patient-Monitor
+
 Patient Monitor for use without an expensive manikin or with a real person
 # What it is
 This is a simple patient monitor emulator designed for multi-screen use in training medical students. It displays a basic patient monitor in one window, and allows you to control that display from another.
