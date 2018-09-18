@@ -28,7 +28,7 @@ emt = [
     { id: "vf", src: "img/vf.png",  name: "Ventricular Fibrillation", current: false },
     { id: "vt", src: "img/vt.png",  name: "Ventricular Tachycardia", current: false },
     { id: "tt", src: "img/tt.png",  name: "test", current: false },
-    // { id: "xxvid", src: "mp4/sinus-rhythm.mp4", name: "Sinus Rhythm (Video)", current: false, video: true }
+    { id: "xxvid", src: "mp4/sinus-rhythm.mp4", name: "Sinus Rhythm (Video)", current: false, video: true }
 ]
 
 input = [
