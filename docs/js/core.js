@@ -40,7 +40,6 @@ input = [
     { id: "nb", name: "NIBP",        data: null, visible: false },
     { id: "bt", name: "Body Temp",   data: null, visible: false },
     { id: "yy", name: "Custom",      data: null, visible: false },
-     { id: "av", name: "AVPU",      data: null, visible: false },
 ]
 
 core = {
