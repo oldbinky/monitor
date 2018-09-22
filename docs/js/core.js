@@ -23,12 +23,18 @@ emt = [
     { id: "af", src: "img/af.png",  name: "Atrial Fibrillation", current: false },
     { id: "2-Asystole", src: "img/2-Asystole.gif",  name: "Asystole", current: false },
     { id: "1-Sinus", src: "img/1-Sinus.gif",  name: "Sinus", current: false },
-    { id: "stc", src: "img/st.png", name: "Sinus Tachycardia", current: false },
-    { id: "ste", src: "img/se.png", name: "ST Elevation", current: false },
-    { id: "vf", src: "img/vf.png",  name: "Ventricular Fibrillation", current: false },
-    { id: "vt", src: "img/vt.png",  name: "Ventricular Tachycardia", current: false },
-    { id: "tt", src: "img/tt.png",  name: "test", current: false },
     { id: "3-P-wave-Asystole", src: "img/3-P-wave-Asystole.gif",  name: "P wave Asystole", current: false },
+     { id: "4-Venricular-fibrillation-coarse", src: "img/4-Venricular-fibrillation-coarse.gif",  name: "4-Venricular-fibrillation-coarse", current: false },
+     { id: "5-Ventricular-fibrillation-Fine", src: "img/5-Ventricular-fibrillation-Fine.gif",  name: "5-Ventricular-fibrillation-Fine", current: false },
+     { id: "6-Atrial Fibrillation", src: "img/6-Atrial Fibrillation.gif",  name: "6-Atrial Fibrillation", current: false },
+     { id: "7-Premature ventricular beat", src: "img/7-Premature ventricular beat.gif",  name: "7-Premature ventricular beat", current: false },
+     { id: "8-Junctional escape beat", src: "img/8-Junctional escape beat.gif",  name: "8-Junctional escape beat", current: false },
+     { id: "9-Atrial flutter 2-1 Atriventic", src: "img/9-Atrial flutter 2-1 Atriventic.gif",  name: "9-Atrial flutter 2-1 Atriventic", current: false },
+     { id: "10-Monomorphic ventricular tachycardia", src: "img/10-Monomorphic ventricular tachycardia.gif",  name: "10-Monomorphic ventricular tachycardia", current: false },
+     { id: "11-Ventricular Tachycardia with fusion and capture beats", src: "img/11-Ventricular Tachycardia with fusion and capture beats.gif",  name: "11-Ventricular Tachycardia with fusion and capture beats", current: false },
+     { id: "12-Polymorphic ventricular tachycardia", src: "img/12-Polymorphic ventricular tachycardia.gif",  name: "12-Polymorphic ventricular tachycardia", current: false },
+     { id: "13-Sinus Bradycardia", src: "img/13-Sinus Bradycardia.gif",  name: "13-Sinus Bradycardia", current: false },
+    
     // { id: "xxvid", src: "mp4/sinus-rhythm.mp4", name: "Sinus Rhythm (Video)", current: false, video: true }
 ]
 
