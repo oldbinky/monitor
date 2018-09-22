@@ -19,8 +19,8 @@ function restoreBackup() {
 // VARIABLES ///////////////////////////////////////////////////////////////////
 
 emt = [
-    { id: "2-Asystole", src: "img/2-Asystole.gif",  name: "Asystole", current: false },
     { id: "1-Sinus", src: "img/1-Sinus.gif",  name: "Sinus", current: false },
+    { id: "2-Asystole", src: "img/2-Asystole.gif",  name: "Asystole", current: false },
     { id: "3-P-wave-Asystole", src: "img/3-P-wave-Asystole.gif",  name: "P wave Asystole", current: false },
      { id: "4-Venricular-fibrillation-coarse", src: "img/4-Venricular-fibrillation-coarse.gif",  name: "4-Venricular-fibrillation-coarse", current: false },
      { id: "5-Ventricular-fibrillation-Fine", src: "img/5-Ventricular-fibrillation-Fine.gif",  name: "5-Ventricular-fibrillation-Fine", current: false },
@@ -32,6 +32,17 @@ emt = [
      { id: "11-Ventricular Tachycardia with fusion and capture beats", src: "img/11-Ventricular Tachycardia with fusion and capture beats.gif",  name: "11-Ventricular Tachycardia with fusion and capture beats", current: false },
      { id: "12-Polymorphic ventricular tachycardia", src: "img/12-Polymorphic ventricular tachycardia.gif",  name: "12-Polymorphic ventricular tachycardia", current: false },
      { id: "13-Sinus Bradycardia", src: "img/13-Sinus Bradycardia.gif",  name: "13-Sinus Bradycardia", current: false },
+    { id: "14-Paced rythm", src: "img/14-Paced rythm.gif",  name: "14-Paced rythm", current: false },
+    { id: "15-1st-degree-Atrioventricular-block", src: "img/15-1st-degree-Atrioventricular-block.gif",  name: "15-1st-degree-Atrioventricular-block", current: false },
+    { id: "16-Mobitz type i or Wenkebach block", src: "img/16-Mobitz type i or Wenkebach block.gif",  name: "16-Mobitz type i or Wenkebach block", current: false },
+    { id: "17-Mobitz type ii or 2nd degree atrioventricular block (2-1)", src: "img/17-Mobitz type ii or 2nd degree atrioventricular block (2-1).gif",  name: "17-Mobitz type ii or 2nd degree atrioventricular block (2-1)", current: false },
+    { id: "18-Mobitz type ii 2nd degree atrioventricular block (3-1)", src: "img/18-Mobitz type ii 2nd degree atrioventricular block (3-1).gif",  name: "18-Mobitz type ii 2nd degree atrioventricular block (3-1)", current: false },
+    { id: "19-3rd degree atrioventricular block", src: "img/19-3rd degree atrioventricular block.gif",  name: "19-3rd degree atrioventricular block", current: false },
+    { id: "20-Agonal rythm", src: "img/20-Agonal rythm.gif",  name: "20-Agonal rythm", current: false },
+    { id: "21-Supraventricular tachycardia", src: "img/21-Supraventricular tachycardia.gif",  name: "21-Supraventricular tachycardia", current: false },
+    { id: "22-Atrial flutter", src: "img/22-Atrial flutter.gif",  name: "22-Atrial flutter", current: false },
+    { id: "23-ST Elevation", src: "img/23-ST Elevation.gif",  name: "23-ST Elevation", current: false },
+    { id: "24-Sinus Tachycardia", src: "img/24-Sinus Tachycardia.gif",  name: "24-Sinus Tachycardia", current: false },
     
     // { id: "xxvid", src: "mp4/sinus-rhythm.mp4", name: "Sinus Rhythm (Video)", current: false, video: true }
 ]
