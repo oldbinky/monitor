@@ -19,8 +19,6 @@ function restoreBackup() {
 // VARIABLES ///////////////////////////////////////////////////////////////////
 
 emt = [
-    { id: "xx", src: "img/xx.png",  name: "Empty", current: true },
-    { id: "af", src: "img/af.png",  name: "Atrial Fibrillation", current: false },
     { id: "2-Asystole", src: "img/2-Asystole.gif",  name: "Asystole", current: false },
     { id: "1-Sinus", src: "img/1-Sinus.gif",  name: "Sinus", current: false },
     { id: "3-P-wave-Asystole", src: "img/3-P-wave-Asystole.gif",  name: "P wave Asystole", current: false },
