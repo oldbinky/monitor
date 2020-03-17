@@ -49,7 +49,7 @@ emt = [
 
 input = [
     { id: "cr", name: "Cap Refill",  data: null, visible: false },
-    { id: "bs", name: "Blood Sugar", data: null, visible: false },
+    { id: "bs", name: "Blood Glucose", data: null, visible: false },
     { id: "rs", name: "Respiration", data: null, visible: false },
     { id: "sp", name: "SpO2",        data: null, visible: false },
     { id: "pl", name: "Pulse",       data: null, visible: false },
