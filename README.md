@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/contributors/UWLSimulationCentre/project-magna) ![](https://img.shields.io/github/last-commit/UWLSimulationCentre/project-magna) ![](https://img.shields.io/github/languages/top/UWLSimulationCentre/project-magna) ![](https://img.shields.io/github/issues/UWLSimulationCentre/project-magna) ![](https://img.shields.io/github/license/UWLSimulationCentre/project-magna) ![](https://img.shields.io/website?url=https%3A%2F%2Fuwlsimulationcentre.github.io%2Fproject-magna%2F&label=Project%20Status
+)
+
 # Project Magna - Patient Monitoring Emulator
 
 A simple patient monitor emulator designed for multi-screen use in training medical students. It displays a basic patient monitor in one window, and allows you to control that display from another.
